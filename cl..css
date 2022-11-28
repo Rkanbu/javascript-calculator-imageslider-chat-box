@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    width: 50px;
+    height: 50px;
+}
+#clearall{
+    background-color: orange;
+    width: 100px;
+}
+#text{
+    width: 95%;
+    margin-left: 5px;
+    text-align: right;
+}
+.calc{
+    background-color: rgba(0, 0, 0, 0.812);
+    text-align: center;
+    border-radius: 20px;
+}
+h5{
+    color:transparent;
+    font-size: 15px;
+    padding: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+
+
+.display{
+    height: 300px;
+    width: 100%;
+    background-color:  rgb(220,248,198);
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+.send{
+    width: 70px;
+    margin: 5px;
+    height: 40px;
+    text-align: center;
+}
+h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#anbu{
+    font-size: 13px;
+    font-family:fantasy;
+    color: rgb(0, 174, 255);
+}
+#f,#b{
+    width: 100px;
+    margin: 10px;
+}
+#b{
+    position: absolute;
+    right: 10px;
+    
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
+}
+h6{
+    font-family: 'Courier New', Courier, monospace;
+}
+#id{
+    color: red;
+    
+}
+hr{
+    color: red;
+    background-color:silver;
+}
+#calculator{
+text-align: right;
+}
